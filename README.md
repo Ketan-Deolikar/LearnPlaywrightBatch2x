@@ -13,12 +13,22 @@ LearnPlaywrightBatch2x/
 │   └── 04_HotCode.js
 ├── chapter_02_Javascript_Concepts/             # JavaScript Core Concepts
 │   └── 05_JS_Basics.js
-└── chapter_03_Identifier_Literals/             # Identifiers, Literals & Tools
-    ├── 06_Identifier_Rules.js
-    ├── 07_Identifier_Part2.js
-    ├── 08_Comments.js
-    ├── identifier-rules.js
-    └── VS_Code_keyboard_shortcut_windows.md
+├── chapter_03_Identifier_Literals/             # Identifiers, Literals & Tools
+│   ├── 06_Identifier_Rules.js
+│   ├── 07_Identifier_Part2.js
+│   ├── 08_Comments.js
+│   ├── identifier-rules.js
+│   └── VS_Code_keyboard_shortcut_windows.md
+└── chapter_04_Javascript_Concepts/             # JavaScript Variables, Scope & Hoisting
+    ├── 09_var_let_consts.js
+    ├── 10_functions.js
+    ├── 11_var_explained.js
+    ├── 12_let_people_love.js
+    ├── 13_const_explained.js
+    ├── 14_var_functionscope.js
+    ├── 15_let_scope.js
+    ├── 16_Hoisting.js
+    └── 17_hoisting_fn.js
 ```
 
 ## 📚 Chapters Overview
@@ -47,6 +57,20 @@ Comprehensive coverage of JavaScript naming conventions, identifier rules, liter
 - `08_Comments.js` - JavaScript commenting styles and best practices
 - `identifier-rules.js` - Interactive examples of identifier rules
 - `VS_Code_keyboard_shortcut_windows.md` - Complete VS Code keyboard shortcuts reference (Windows & Mac)
+
+### Chapter 04: JavaScript Variables, Scope & Hoisting
+Deep dive into JavaScript variable declarations, function scope, block scope, and hoisting behavior.
+
+**Files:**
+- `09_var_let_consts.js` - Overview of var, let, and const declarations
+- `10_functions.js` - JavaScript functions basics
+- `11_var_explained.js` - Detailed explanation of `var` behavior
+- `12_let_people_love.js` - Detailed explanation of `let`
+- `13_const_explained.js` - Detailed explanation of `const`
+- `14_var_functionscope.js` - `var` function scope demonstration
+- `15_let_scope.js` - `let` block scope demonstration
+- `16_Hoisting.js` - Variable hoisting concepts
+- `17_hoisting_fn.js` - Hoisting within functions
 
 ## 🎯 Topics Covered
 
@@ -77,6 +101,21 @@ Complete reference guide including:
 - Terminal shortcuts
 - Multi-cursor editing
 - Refactoring tools
+
+### JavaScript Variables & Scope
+- `var`, `let`, and `const` declarations
+- Function scope vs block scope
+- Variable redeclaration and reassignment
+- Loop scope and variable leakage
+
+### Functions
+- Function declarations and invocations
+- Function scope behavior
+
+### Hoisting
+- Variable hoisting with `var`
+- Hoisting behavior inside functions
+- Temporal Dead Zone (TDZ) awareness with `let` and `const`
 
 ## 🚀 Getting Started
 
